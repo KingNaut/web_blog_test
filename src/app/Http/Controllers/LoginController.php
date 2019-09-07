@@ -5,8 +5,8 @@ namespace App\Http\Controllers;
 use App\Libs\Messages;
 use Illuminate\Http\Request;
 use App\Http\Requests\LoginRequest;
-use  App\Model\User;
-use App\Model\Action;
+use  App\Models\User;
+use App\Models\Action;
 
 class LoginController extends Controller
 {

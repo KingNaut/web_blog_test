@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Model\Action;
+use App\Models\Action;
 use Illuminate\Http\Request;
 
 class ActionController extends Controller
