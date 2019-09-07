@@ -4,8 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\ChangePasswordRequest;
 use App\Http\Requests\EditProfileRequest;
-use App\Model\Action;
-use App\Model\User;
+use App\Models\Action;
+use App\Models\User;
 use App\Http\Requests\EditUserRequest;
 use App\Libs\Messages;
 use App\Libs\Strings;
